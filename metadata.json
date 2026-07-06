@@ -1,0 +1,6 @@
+{
+  "name": "Node X Manager",
+  "description": "Portal penyimpanan aplikasi dengan sistem keamanan berbasis Discord OAuth2 dan database JSON flat-file atomic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
